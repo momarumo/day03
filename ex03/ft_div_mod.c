@@ -14,7 +14,8 @@
 
 void	ft_div_mod(int a, int b, int *div, int *mod)
 {
-	int temp =0;
+	int	temp;
+	temp =0;
 	if (temp != '\0')
 	{
 		*div = a/b ;
