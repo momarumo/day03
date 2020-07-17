@@ -14,9 +14,10 @@
 
 void	ft_ultimate_ft(int *********nbr)
 {	
-	int n = 42;
-    nbr = &n;
-    ft_putchar((*********nbr/10) + '0');
+	int n;
+	n = 42;
+        nbr = &n;
+        ft_putchar((*********nbr/10) + '0');
 	ft_putchar((*********nbr % 10) +'0');
 }
 
