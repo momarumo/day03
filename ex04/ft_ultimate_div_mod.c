@@ -13,8 +13,8 @@
 #include<unistd.h>
 void	ft_ultimate_div_mod(int *a, int *b)
 {
-   	int temp=0;
-
+	int	temp;
+   	temp = 0;
 	int a ;
 	int b ;
 
